@@ -1,5 +1,3 @@
-
-
 main(List<String> arguments) { // entry point for execution
 
   //Variable = spot in memory.  Or just a bucket to hold a value.
@@ -244,8 +242,8 @@ var age = 18;
 //
 //  String name; // explicit
 //
-//  name = "Paulo";
-//  country = "Japan";
+//  name = "Antor";
+//  country = "bangladesh";
 //  country = 23;
 //
 //  print(country);
